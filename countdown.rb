@@ -5,4 +5,5 @@ def countdown(sec)
   while count > sec 
     puts "#{count} SECONDS!"
     count -= 1 
+  end
 end
